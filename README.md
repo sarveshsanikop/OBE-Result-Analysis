@@ -53,6 +53,8 @@ An academic department uploads ESA results. This tool highlights:
 ## 🌐 Live Demo
 
 👉 [Hugging Face Space](https://huggingface.co/spaces/sarvesh1818/OBE_Result_Analysis)
+- Download the Sample.xls file
+- Open the Application and Drop it
 
 ---
 
